@@ -21,6 +21,7 @@
 * **Display:** Integrated **0.96" OLED (128×64)** for real-time layer feedback, stats, or custom graphics.
 * **Matrix:** A clean **4×3 Key Matrix** layout complete with diode orientation for robust anti-ghosting.
 * **Encoder** A rotary encoder with push button for changing volumn.
+* **Function** With fn feature it has total 12+12 = 24 working Keys
 
 ---
 
