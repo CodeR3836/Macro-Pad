@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  A custom, open-source mechanical macro-pad featuring an OLED screen.
+  A custom, open-source mechanical macro-pad .
 </h4>
 
 <div align="center">
