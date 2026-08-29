@@ -37,4 +37,3 @@ This project wouldn't be possible without these incredible open-source tools and
 * **[KiCad](https://www.kicad.org/)** for the phenomenal open-source PCB design suite.
 * **[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/)** for the case design environment.
 
-* 
